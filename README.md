@@ -9,8 +9,8 @@ Training repo whilst experimenting on MOOC data science toolbox
 * Three items
 Library Carpentry
 
-# Command	What It Does
-pwd	Prints the 'present working directory,’ letting you know where you are.
+# Command	Line What It Does
+* pwd	Prints the 'present working directory,’ letting you know where you are.
 
 ls	Lists the files in the current directory
 
