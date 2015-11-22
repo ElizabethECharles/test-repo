@@ -30,9 +30,9 @@ tail *	Displays the last ten lines of *
 
 mv	 Moves a file
 
-cp	 Copies a file
+cp	 = Copies a file
 
-rm	 Deletes a file
+rm	 = Deletes a file
 
 vim	 Opens up the vim document editor.
 
